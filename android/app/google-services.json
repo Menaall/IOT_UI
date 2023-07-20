@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "904134502899",
+    "firebase_url": "https://training-b4cb0-default-rtdb.firebaseio.com",
+    "project_id": "training-b4cb0",
+    "storage_bucket": "training-b4cb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904134502899:android:fcefc63827d26286f5ca86",
+        "android_client_info": {
+          "package_name": "com.example.tranning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904134502899-adv88feth259d175aprlrd8eg754jju4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaEwrMdMNTHfORrxIe1vLMPsOA9dpDkUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904134502899-adv88feth259d175aprlrd8eg754jju4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
